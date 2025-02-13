@@ -34,14 +34,7 @@ To start the Unix clone application, run:
 python src/main.py
 ```
 
-Once the application is running, you can enter commands similar to those in a Unix shell. 
-
-## Commands
-
-- `ls`: Lists all files in the current directory.
-- `cp <source> <destination>`: Copies a file from the source path to the destination path.
-- `mv <source> <destination>`: Moves a file from the source path to the destination path.
-- `rm <file>`: Deletes the specified file.
+Once the application is running, you can enter commands similar to those in a Unix shell.
 
 ## Contributing
 
