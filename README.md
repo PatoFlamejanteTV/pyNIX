@@ -4,10 +4,19 @@ This project is a simple Unix-like command line interface implemented in Python.
 
 ## Features
 
-- **ls**: List files in the current directory.
-- **cp**: Copy files from one location to another.
-- **mv**: Move files from one location to another.
-- **rm**: Remove specified files.
+```
+        'ls': list_files,
+        'cp': copy_file,
+        'mv': move_file,
+        'rm': remove_file,
+        'touch': touch_file,
+        'pwd': print_working_directory,
+        'cd': change_directory,
+        'cat': cat_file,
+        'mkdir': make_directory,
+        'echo': echo,
+        'help': show_help
+```
 
 ## Installation
 
